@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\bin\Debug\CountingX.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\bin\Debug\CountingX.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\bin\Debug\CountingX.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\bin\Debug\CountingX.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\CountingX\CountingX\obj\Debug\CountingX.pdb

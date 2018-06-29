@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\bin\Debug\slotmachine.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\bin\Debug\slotmachine.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\bin\Debug\slotmachine.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\bin\Debug\slotmachine.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\slotmachine\slotmachine\obj\Debug\slotmachine.pdb

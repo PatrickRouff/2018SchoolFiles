@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\bin\Debug\Copies.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\bin\Debug\Copies.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\bin\Debug\Copies.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\bin\Debug\Copies.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Copies\Copies\obj\Debug\Copies.pdb

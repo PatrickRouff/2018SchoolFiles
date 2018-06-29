@@ -1,0 +1,23 @@
+Harry Potter
+Gryffindor
+
+Hermione Granger
+Gryffindor
+
+Ron Weasley
+Gryffindor
+
+Draco Malfoy
+Slytherin
+
+Pansy Parkinson
+Slytherin
+
+Cho Chang
+Ravenclaw
+
+Luna Lovegood
+Ravenclaw
+
+Cedric Diggory
+Hufflepuff

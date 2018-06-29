@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\bin\Debug\MyForLoops.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\bin\Debug\MyForLoops.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\bin\Debug\MyForLoops.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\bin\Debug\MyForLoops.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MyForLoops\MyForLoops\obj\Debug\MyForLoops.pdb

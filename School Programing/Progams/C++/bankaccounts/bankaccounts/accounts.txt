@@ -1,0 +1,10 @@
+Account #:46728     Type: Saving      Current Balance:2808
+Account earned 4% interest.
+Account #:87324     Type: Checking      Current Balance:8073.45
+Account earned 5% interest.
+Account #:79873     Type: Saving      Current Balance:832
+Account earned 4% interest.
+Account #:89832     Type: Checking      Current Balance:3090
+Account earned 3% interest.
+Account #:98322     Type: Checking      Current Balance:725
+Account was charged $25 for being below minimum balance.

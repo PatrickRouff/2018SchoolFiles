@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\bin\Debug\Circles.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.frmCircles.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Circles\Circles\obj\Debug\Circles.pdb

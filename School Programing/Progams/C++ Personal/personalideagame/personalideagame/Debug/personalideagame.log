@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++ personal\personalideagame\personalideagame\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  personalideagame.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++ Personal\personalideagame\Debug\personalideagame.exe
+  personalideagame.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++ Personal\personalideagame\Debug\personalideagame.pdb (Partial PDB)

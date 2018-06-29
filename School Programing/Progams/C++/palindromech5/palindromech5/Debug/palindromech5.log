@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++\palindromech5\palindromech5\source.cpp(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mc123\desktop\school programing\my stuff\c++\palindromech5\palindromech5\source.cpp(63): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mc123\desktop\school programing\my stuff\c++\palindromech5\palindromech5\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\mc123\desktop\school programing\my stuff\c++\palindromech5\palindromech5\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  palindromech5.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\palindromech5\Debug\palindromech5.exe
+  palindromech5.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\palindromech5\Debug\palindromech5.pdb (Partial PDB)

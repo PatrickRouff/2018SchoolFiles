@@ -1,0 +1,11 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\bin\Debug\Add.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\bin\Debug\Add.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\bin\Debug\Add.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\bin\Debug\Add.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Add\Add\obj\Debug\Add.pdb

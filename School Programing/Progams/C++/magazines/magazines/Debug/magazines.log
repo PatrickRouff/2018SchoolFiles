@@ -1,0 +1,4 @@
+﻿  magazines.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++\magazines\magazines\magazines.cpp(50): warning C4715: 'search': not all control paths return a value
+  magazines.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\magazines\Debug\magazines.exe
+  magazines.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\magazines\Debug\magazines.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\bin\Debug\mathunit1review.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\bin\Debug\mathunit1review.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\bin\Debug\mathunit1review.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\bin\Debug\mathunit1review.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\mathunit1review\mathunit1review\obj\Debug\mathunit1review.pdb

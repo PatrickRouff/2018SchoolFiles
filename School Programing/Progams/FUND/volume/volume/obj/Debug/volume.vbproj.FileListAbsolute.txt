@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\bin\Debug\volume.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\bin\Debug\volume.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\bin\Debug\volume.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\bin\Debug\volume.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\volume\volume\obj\Debug\volume.pdb

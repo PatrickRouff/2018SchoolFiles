@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\bin\Debug\Final Exam.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\bin\Debug\Final Exam.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\bin\Debug\Final Exam.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\bin\Debug\Final Exam.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final_Exam.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final_Exam.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Final Exam\Final Exam\obj\Debug\Final Exam.pdb

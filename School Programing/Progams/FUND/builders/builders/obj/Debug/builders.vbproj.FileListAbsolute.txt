@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\bin\Debug\builders.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\bin\Debug\builders.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\bin\Debug\builders.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\bin\Debug\builders.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\builders\builders\obj\Debug\builders.pdb

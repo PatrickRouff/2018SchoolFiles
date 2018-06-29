@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\bin\Debug\Ch3Test.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\bin\Debug\Ch3Test.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\bin\Debug\Ch3Test.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\bin\Debug\Ch3Test.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Ch3Test\Ch3Test\obj\Debug\Ch3Test.pdb

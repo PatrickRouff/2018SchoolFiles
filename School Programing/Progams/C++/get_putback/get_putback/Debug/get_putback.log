@@ -1,0 +1,29 @@
+﻿Build started 9/5/2017 8:27:38 AM.
+     1>Project "C:\Users\PRouff010\Desktop\My Stuff\get_putback\get_putback\get_putback.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\get_putback.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt get_putback.cpp
+         get_putback.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\get_putback.exe.embed.manifest.res" Debug\get_putback_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\get_putback.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.lib" /MACHINE:X86 Debug\get_putback.exe.embed.manifest.res
+         Debug\get_putback.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\get_putback.exe.embed.manifest" /manifest Debug\get_putback.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\get_putback.exe.embed.manifest.res" Debug\get_putback_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\get_putback.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.lib" /MACHINE:X86 Debug\get_putback.exe.embed.manifest.res
+         Debug\get_putback.obj
+         get_putback.vcxproj -> C:\Users\PRouff010\Desktop\My Stuff\get_putback\Debug\get_putback.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\get_putback.unsuccessfulbuild".
+         Touching "Debug\get_putback.lastbuildstate".
+     1>Done Building Project "C:\Users\PRouff010\Desktop\My Stuff\get_putback\get_putback\get_putback.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.47

@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\bin\Debug\Unit2Quiz.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\bin\Debug\Unit2Quiz.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\bin\Debug\Unit2Quiz.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\bin\Debug\Unit2Quiz.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\Unit2Quiz\Unit2Quiz\obj\Debug\Unit2Quiz.pdb

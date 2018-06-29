@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++\vecterbasicsstarter\vecterbasicsstarter\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\mc123\desktop\school programing\my stuff\c++\vecterbasicsstarter\vecterbasicsstarter\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mc123\desktop\school programing\my stuff\c++\vecterbasicsstarter\vecterbasicsstarter\source.cpp(53): note: see reference to function template instantiation 'void display<int>(const std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  VecterBasicsStarter.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\VecterBasicsStarter\Debug\VecterBasicsStarter.exe
+  VecterBasicsStarter.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\VecterBasicsStarter\Debug\VecterBasicsStarter.pdb (Partial PDB)

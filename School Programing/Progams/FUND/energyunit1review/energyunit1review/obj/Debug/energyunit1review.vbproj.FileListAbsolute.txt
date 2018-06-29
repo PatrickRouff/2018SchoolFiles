@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\bin\Debug\energyunit1review.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\bin\Debug\energyunit1review.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\bin\Debug\energyunit1review.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\bin\Debug\energyunit1review.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\energyunit1review\energyunit1review\obj\Debug\energyunit1review.pdb

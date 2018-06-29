@@ -1,0 +1,9 @@
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\bin\Debug\StateCapitals.exe
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\bin\Debug\StateCapitals.pdb
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\bin\Debug\StateCapitals.xml
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.MainForm.resources
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.Resources.resources
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.vbproj.GenerateResource.Cache
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.exe
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.xml
+C:\Users\PRouff010\Desktop\My Stuff\FUND\StateCapitals\StateCapitals\obj\x86\Debug\StateCapitals.pdb

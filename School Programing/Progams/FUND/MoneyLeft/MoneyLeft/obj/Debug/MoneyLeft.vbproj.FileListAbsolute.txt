@@ -1,0 +1,11 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\bin\Debug\MoneyLeft.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\bin\Debug\MoneyLeft.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\bin\Debug\MoneyLeft.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\bin\Debug\MoneyLeft.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\MoneyLeft\MoneyLeft\obj\Debug\MoneyLeft.pdb

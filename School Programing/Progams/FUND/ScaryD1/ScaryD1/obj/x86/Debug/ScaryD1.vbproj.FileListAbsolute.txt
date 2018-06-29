@@ -1,0 +1,9 @@
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.Form1.resources
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.Resources.resources
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.vbproj.GenerateResource.Cache
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\bin\Debug\ScaryD1.exe
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\bin\Debug\ScaryD1.pdb
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\bin\Debug\ScaryD1.xml
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.exe
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.xml
+C:\Users\PRouff010\Desktop\My Stuff\FUND\ScaryD1\ScaryD1\obj\x86\Debug\ScaryD1.pdb

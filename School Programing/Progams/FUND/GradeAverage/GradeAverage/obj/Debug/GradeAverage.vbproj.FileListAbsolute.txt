@@ -1,0 +1,12 @@
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe.config
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\bin\Debug\GradeAverage.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.vbprojResolveAssemblyReference.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.Form1.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.Resources.resources
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.vbproj.GenerateResource.Cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.vbproj.CoreCompileInputs.cache
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.exe
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.xml
+C:\Users\mc123\Desktop\School Programing\My Stuff\FUND\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb

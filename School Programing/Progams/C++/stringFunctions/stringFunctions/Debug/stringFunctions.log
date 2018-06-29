@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++\stringfunctions\stringfunctions\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\mc123\desktop\school programing\my stuff\c++\stringfunctions\stringfunctions\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\mc123\desktop\school programing\my stuff\c++\stringfunctions\stringfunctions\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  stringFunctions.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\stringFunctions\Debug\stringFunctions.exe
+  stringFunctions.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\stringFunctions\Debug\stringFunctions.pdb (Partial PDB)

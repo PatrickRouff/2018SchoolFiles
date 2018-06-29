@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++ personal\3doorssim\3doorssim\source.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  3DoorsSim.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++ Personal\3DoorsSim\Debug\3DoorsSim.exe
+  3DoorsSim.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++ Personal\3DoorsSim\Debug\3DoorsSim.pdb (Partial PDB)

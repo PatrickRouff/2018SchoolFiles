@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\mc123\desktop\school programing\my stuff\c++\vectorsandfiles\vectorsandfiles\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mc123\desktop\school programing\my stuff\c++\vectorsandfiles\vectorsandfiles\source.cpp(50): note: see reference to function template instantiation 'void display<std::string>(const std::vector<std::string,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=std::string
+          ]
+  VectorsAndFiles.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\VectorsAndFiles\Debug\VectorsAndFiles.exe
+  VectorsAndFiles.vcxproj -> C:\Users\mc123\Desktop\School Programing\My Stuff\C++\VectorsAndFiles\Debug\VectorsAndFiles.pdb (Partial PDB)
